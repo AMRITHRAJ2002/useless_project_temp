@@ -5,30 +5,31 @@
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: [toggle]
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
+- Team Lead: [AMRITHRAJ MM] - [SNM INSTITUTE OF MANAGEMENT AND TECHNOLOGY]
+- Member 2: [MUHAMMED NADEER KN] - [SNM INSTITUTE OF MANAGEMENT AND TECHNOLOGY]
 - Member 3: [Name] - [College]
 
 ### Project Description
-[2-3 lines about what your project does]
+[Captain Crispy – The Roast Chatbot
+Meet Captain Crispy, your snarky AI sidekick. Every word you type is fuel for his fire, and he’s serving burns hotter than lava. Quick, clever, and merciless, he turns chats into roast battles you can’t win… but secretly enjoy losings]
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+[Most chatbots are overly polite, generic, and predictable. Users quickly lose interest because the interactions feel robotic and lack personality. There’s no engaging twist that keeps them coming back for fun, repeat conversations.]
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+[Create Captain Crispy, a humor-driven roasting chatbot that turns every user message into a witty burn. Using natural language processing and a curated database of clever insults, it delivers personalized, entertaining roasts in real-time. The playful “battle of wits” format makes the bot memorable, shareable, and addictive.]
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
+- [typescript,react]
+- [React 18 with TypeScript]
 - [Libraries used]
-- [Tools used]
+- [vite build tool and dev server]
 
 For Hardware:
 - [List main components]
@@ -47,10 +48,10 @@ For Software:
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
+![https://drive.google.com/file/d/1x9nlN01dZ5yi9Y5KVxafn0VEzKHf0E5D/view?usp=drive_link](Add screenshot 1 here with proper name)
 *Add caption explaining what this shows*
 
-![Screenshot2](Add screenshot 2 here with proper name)
+![https://drive.google.com/file/d/17meqplSAlf8pVDNeMw8x7R6szxPZ2tz2/view?usp=drive_link](Add screenshot 2 here with proper name)
 *Add caption explaining what this shows*
 
 ![Screenshot3](Add screenshot 3 here with proper name)
@@ -81,7 +82,7 @@ For Hardware:
 
 ### Project Demo
 # Video
-[Add your demo video link here]
+[https://drive.google.com/file/d/1-JKb8e7gkZQVR3nH3fsoI6s48rgkyVUE/view?usp=drive_link]
 *Explain what the video demonstrates*
 
 # Additional Demos
